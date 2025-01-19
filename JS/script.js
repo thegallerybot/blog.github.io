@@ -80,6 +80,14 @@ const blogPosts = [
     {
         username: "CD",
         rank: "Owner",
+        title: "About CD Hub!",
+        description: "CD Hub is an 8bp panel that brings more features than any other mod in this game, it brings unique features, all with pinpoint precision, and without the risk of banning. Also, tomorrow, the first spoiler for the panel will be officially released.",
+        image: "https://blog.cdhub.store/Images/2.png",
+        timestamp: "January 19, 2025",
+    },
+    {
+        username: "CD",
+        rank: "Owner",
         title: "Welcome to CD Hub blog!",
         description: "This is the first blog, here we give the introduction to this wonderful section where you will have real-time news from our panel.",
         image: "https://blog.cdhub.store/Images/1.png",
