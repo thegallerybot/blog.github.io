@@ -36,6 +36,16 @@ header p {
     margin: 0;
 }
 
+/* Separador */
+hr {
+    border: 0;
+    height: 1px;
+    background: #ffffff;
+    opacity: 0.5;
+    margin: 2rem auto;
+    width: 80%; /* Ajusta el ancho del separador */
+}
+
 /* Blog Posts */
 main {
     padding: 2rem;
