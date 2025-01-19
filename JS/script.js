@@ -82,7 +82,7 @@ const blogPosts = [
         rank: "Owner",
         title: "Welcome to CD Hub blog!",
         description: "This is the first blog, here we give the introduction to this wonderful section where you will have real-time news from our panel.",
-        image: "https://via.placeholder.com/800x400",
+        image: "https://blog.cdhub.store/Images/1.png",
         timestamp: "January 19, 2025",
     },
 ];
