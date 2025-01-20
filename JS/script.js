@@ -78,6 +78,22 @@ particlesJS('particles-js', {
 
 const blogPosts = [
     {
+        username: "Tenz",
+        rank: "Elite Moderator",
+        title: "Floating menu",
+        description: "This is how the menu will probably look like, little by little it will be improved since this is only the prototype.",
+        image: "https://blog.cdhub.store/Images/4.png",
+        timestamp: "January 20, 2025",
+    },
+    {
+        username: "CD",
+        rank: "Owner",
+        title: "Prediction Lines!",
+        description: "We are happy to finally show our line prediction, which as I said, is millimeter.",
+        image: "https://blog.cdhub.store/Images/3.png",    
+        timestamp: "January 20, 2025",
+    },
+    {
         username: "CD",
         rank: "Owner",
         title: "About CD Hub!",
